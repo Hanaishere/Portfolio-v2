@@ -48,7 +48,7 @@ function App() {
       'A full-stack accommodation platform that helps users discover PGs, hostels, and rentals with smart search, detailed listings, and nearby location insights.',
     tech: ['Spring Boot', 'React', 'MySQL'],
     color: 'var(--neon-pink)',
-    github: 'https://github.com/yourusername/roomeo'
+    github: 'https://github.com/Hanaishere/Roomeo-Frontend'
   },
 
   {
@@ -57,7 +57,7 @@ function App() {
       'A tool to convert youtube music video mixes into custom spotify playlists.',
     tech: ['React', 'Spring Boot', 'OAuth 2.0'],
     color: 'var(--neon-cyan)',
-    github: 'https://github.com/yourusername/serene-flows'
+    github: 'https://github.com/Hanaishere/SereneFlows'
   },
 
   {
@@ -66,7 +66,7 @@ function App() {
       'This very website! A nostalgic journey through retro gaming aesthetics with modern tech.',
     tech: ['React', 'Framer Motion', 'CSS'],
     color: 'var(--neon-yellow)',
-    github: 'https://github.com/yourusername/pixel-portfolio'
+    github: 'https://github.com/Hanaishere/Portfolio-v2'
   },
 
   {
@@ -75,7 +75,7 @@ function App() {
       'A blockchain based carbon exchange and trading platform',
     tech: ['Blockchain', 'Web3', 'MongoDB', 'Node JS'],
     color: 'var(--neon-green)',
-    github: 'https://github.com/yourusername/zero-net'
+    github: 'https://github.com/Hanaishere/CarbonCredit-ZeroNet'
   }
 ];
 
@@ -210,7 +210,7 @@ function App() {
   </motion.a>
 
   <motion.a
-    href="/resume.pdf"
+    href="https://drive.google.com/file/d/1uoPo4gOkiXdx4RkNmjQE8-cJmINszCn7/view?usp=drive_link"
     target="_blank"
     className="arcade-button hero-btn"
     whileHover={{ scale: 1.05 }}
